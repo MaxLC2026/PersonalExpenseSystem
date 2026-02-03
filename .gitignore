@@ -1,0 +1,4 @@
+sql/expenses.db
+expenses.db
+__pycache__/
+*.pyc
